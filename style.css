@@ -1,0 +1,33 @@
+body{
+    background-color: #333232;
+}
+
+#container{
+    background-color: #0e2431;
+    border: 2px solid wheat;
+    margin: auto;
+    height: 275px;
+    width: 725px;
+    text-align: center;
+}
+
+h1{
+    color:antiquewhite;
+}
+
+#outputtext{
+    color: wheat;
+    font-size: 20px;
+}
+
+#userinput{
+    width: 100px;
+    margin: 20px auto;
+    
+}
+
+#btn{
+    margin: 20px auto auto  5px;
+}
+
+#btn
